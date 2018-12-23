@@ -1,0 +1,18 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/lenovo/Pro/Pro.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/fangdou_sim.v,1545373359,verilog,,,,fangdou_sim,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/frenq_sim.v,1545374857,verilog,,,,frenq_sim,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/secCount_sim.v,1545483051,verilog,,,,secCount_sim,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/seg2_sim.v,1545533132,verilog,,,,seg2_sim,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/seg_sim.v,1545529079,verilog,,,,seg_sim,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/top_sim.v,1545486821,verilog,,,,top_sim,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/imports/new/modules.v,1545486296,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/seg.v,,Highdecoder;Lowdecoder;MUXforHour;MUXforMinute;clock;controlcircuit;frequencyDivider;hourconter;minuteconter;secondconter,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/allfile2.v,1545483961,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/imports/new/modules.v,,allfile2,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/fq2.v,1545374457,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/frenq_sim.v,,fq2,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/seg.v,1545530135,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/xiaodou.v,,seg,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/seg2.v,1545531385,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/seg2_sim.v,,seg2,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/top.v,1545312862,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/xd.v,,allfile,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/xiaodou.v,1545307311,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/top_sim.v,,key_fangdou,,,,,,,,
