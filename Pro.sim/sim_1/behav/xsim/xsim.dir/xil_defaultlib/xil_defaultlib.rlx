@@ -9,7 +9,7 @@ C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/secCount_sim.v,1545483051,verilog,,,,secC
 C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/seg2_sim.v,1545533132,verilog,,,,seg2_sim,,,,,,,,
 C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/seg_sim.v,1545529079,verilog,,,,seg_sim,,,,,,,,
 C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/top_sim.v,1545486821,verilog,,,,top_sim,,,,,,,,
-C:/Users/lenovo/Pro/Pro.srcs/sources_1/imports/new/modules.v,1545486296,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/seg.v,,Highdecoder;Lowdecoder;MUXforHour;MUXforMinute;clock;controlcircuit;frequencyDivider;hourconter;minuteconter;secondconter,,,,,,,,
+C:/Users/lenovo/Pro/Pro.srcs/sources_1/imports/new/modules.v,1545657051,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/seg.v,,Highdecoder;Lowdecoder;MUXforHour;MUXforMinute;clock;controlcircuit;frequencyDivider;hourconter;minuteconter;secondconter,,,,,,,,
 C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/allfile2.v,1545483961,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/imports/new/modules.v,,allfile2,,,,,,,,
 C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/fq2.v,1545374457,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sim_1/new/frenq_sim.v,,fq2,,,,,,,,
 C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/seg.v,1545530135,verilog,,C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/xiaodou.v,,seg,,,,,,,,

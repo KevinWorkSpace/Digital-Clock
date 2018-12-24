@@ -1,13 +1,25 @@
 Vivado Simulator 2017.4
 Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
-Running: F:/MyDownloads/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto c2da4084b8e84fd8b32ca59262d6db48 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot seg2_sim_behav xil_defaultlib.seg2_sim xil_defaultlib.glbl -log elaborate.log 
+Running: F:/MyDownloads/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto c2da4084b8e84fd8b32ca59262d6db48 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot top_sim_behav xil_defaultlib.top_sim xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 8 differs from formal bit length 4 for port sech [C:/Users/lenovo/Pro/Pro.srcs/sources_1/new/allfile2.v:98]
 Completed static elaboration
 Starting simulation data flow analysis
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
-Compiling module xil_defaultlib.seg2
-Compiling module xil_defaultlib.seg2_sim
+Compiling module xil_defaultlib.key_fangdou
+Compiling module xil_defaultlib.controlcircuit
+Compiling module xil_defaultlib.secondconter
+Compiling module xil_defaultlib.MUXforMinute
+Compiling module xil_defaultlib.minuteconter
+Compiling module xil_defaultlib.MUXforHour
+Compiling module xil_defaultlib.hourconter
+Compiling module xil_defaultlib.Highdecoder
+Compiling module xil_defaultlib.Lowdecoder
+Compiling module xil_defaultlib.seg
+Compiling module xil_defaultlib.clock
+Compiling module xil_defaultlib.allfile2
+Compiling module xil_defaultlib.top_sim
 Compiling module xil_defaultlib.glbl
-Built simulation snapshot seg2_sim_behav
+Built simulation snapshot top_sim_behav

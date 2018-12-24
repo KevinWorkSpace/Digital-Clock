@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7a100tfgg484-1" LaunchTime="1545534374">
   <File Type="PA-TCL" Name="key_fangdou.tcl"/>
-  <File Type="RDS-PROPCONSTRS" Name="key_fangdou_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="key_fangdou_reports.tcl"/>
   <File Type="RDS-RDS" Name="key_fangdou.vds"/>
   <File Type="RDS-UTIL" Name="key_fangdou_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="key_fangdou_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="key_fangdou.dcp"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="key_fangdou_timing_summary_synth.rpt"/>
-  <File Type="VDS-TIMING-PB" Name="key_fangdou_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/xiaodou.v">
@@ -119,9 +116,7 @@
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017">
-      <Desc>Vivado Synthesis Defaults</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2017"/>
     <Step Id="synth_design"/>
   </Strategy>
 </GenRun>
